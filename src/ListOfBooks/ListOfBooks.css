@@ -1,0 +1,27 @@
+li.MuiGridList-root, li.MuiGridListTile-root {
+    width: 100%;
+    height: 100%;
+}
+
+ul.MuiGridList-root.makeStyles-gridList-2 {
+    width: 100%;
+    height: 100%;
+    margin-top: 50px;
+}
+
+img.gallery_images {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+    /*box-shadow: 10px 10px 10px rgba(0,0,0,0.50);*/
+}
+
+.makeStyles-root-1{
+    width: 100%;
+    height: 100%;
+}
+
+.MuiGridListTile-tile a.MuiGridListTile-tile{
+    width: 100%;
+    height: 100%;
+}
